@@ -7,6 +7,8 @@ public class Main {
         //DayOne.dayOneQuestionOne();
         //DayOne.dayOneQuestionTwo();
         //DayTwo.dayTwoQuestionOne();
-        DayTwo.dayTwoQuestionTwo();
+        //DayTwo.dayTwoQuestionTwo();
+        //DayThree.dayThreeQuestionOne();
+        DayThree.dayThreeQuestionTwo();
     }
 }
