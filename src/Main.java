@@ -13,6 +13,8 @@ public class Main {
         //DayFour.dayFourQuestionOne();
         //DayFour.dayFourQuestionTwo();
         //DayFive.dayFivePartOne();
-        DayFive.dayFivePartTwo();
+        //DayFive.dayFivePartTwo();
+        //DaySix.daySixPartOne();
+        DaySix.daySixPartTwo();
     }
 }
