@@ -15,6 +15,8 @@ public class Main {
         //DayFive.dayFivePartOne();
         //DayFive.dayFivePartTwo();
         //DaySix.daySixPartOne();
-        DaySix.daySixPartTwo();
+        //DaySix.daySixPartTwo();
+        //DaySeven.DaySevenQuestionOne();
+        DaySeven.DaySevenQuestionTwo();
     }
 }
